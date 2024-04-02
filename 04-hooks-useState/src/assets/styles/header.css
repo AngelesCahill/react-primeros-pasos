@@ -1,0 +1,19 @@
+.container {
+    background-color: chocolate;
+    color: antiquewhite;
+    height: 16rem;
+    text-align: center;
+}
+
+#marca {
+    text-align: center;
+    font-size: 3rem;
+}
+
+.btn-tarea {
+    background-color: rgb(241, 237, 234);
+    color: rgb(3, 3, 3);
+    font-weight: bold;
+    height: 3rem;
+    text-align: center;
+}

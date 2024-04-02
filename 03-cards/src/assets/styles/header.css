@@ -1,0 +1,10 @@
+.container {
+    background-color: chocolate;
+    color: antiquewhite;
+    height: 6rem;
+}
+
+#marca {
+    text-align: center;
+    font-size: 6rem;
+}

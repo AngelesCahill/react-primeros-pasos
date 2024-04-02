@@ -1,0 +1,11 @@
+.header {
+    height: 6rem;
+    width: 100vw;
+    background-color: coral;
+    color: antiquewhite;
+    font-size: 3rem;
+}
+
+h1 {
+    text-align: center;
+}
